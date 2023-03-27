@@ -461,12 +461,12 @@ background: -webkit-linear-gradient(top,#95e5ff 0,#009688 100%);
 background: linear-gradient(to bottom,#95e5ff 0,#009688 100%);}
 .shape-bg3:before{
 content: "";
-background: url(../images/shape/shape-12.svg);
+background: url(../images/shape/shape-12.html);
 position: absolute; height: 100%; width: 100%; opacity: 0.03;}
 /**Hero section**/
 .hero-bg-bg1:before{
 content: "";
-background: url(../images/hero/banner-shap-2.png);
+background: url(../images/hero/banner-shap-2.html);
 position: absolute;
 height: 100vh;
 right: 0;
@@ -650,9 +650,9 @@ box-shadow: 0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059), 0 8.2px 8.9px -30px rgba(0
 .service-img2{    background:#ffdadb;}
 .service-img2:after{    background: url(../images/service/service-img-2.png);}
 .service-img3{  background:#d6edff; }
-.service-img3:after{    background: url(../images/service/service-img-3.png);}
+.service-img3:after{    background: url(../images/service/service-img-3.html);}
 .service-img4{  background:#ffede1;   }
-.service-img4:after{    background: url(../images/service/service-img-4.png);}
+.service-img4:after{    background: url(../images/service/service-img-4.html);}
 .wide-block:after{
 content:'';
 position: absolute;
@@ -784,7 +784,7 @@ box-shadow: 0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059), 0 8.2px 8.9px -30px rgba(0
 .cd7{background:#f3a6ff;}.cd8{background:#97ffaf;}.cd9{background:#6cfffa;}.cd10{background:#77baff;}.cd11{background:#ffefd4;}.cd12{background:#7affdb;}
 /**Testimonial section**/
 .testinomial-section{
-background: url(../images/shape/shape-9.svg) #fff;
+background: url(../images/shape/shape-9.html) #fff;
 background-size: contain;
 background-position: center left;
 background-repeat: no-repeat;}
@@ -1221,7 +1221,7 @@ top: -3px;}
 .block-1 .statnumb {margin: 0 0 0 0px;}
 .why-choose{background: #f7fcff;}
 /**Team page**/
-.banner-4{background: url(../images/banner/2.jpg);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
+.banner-4{background: url(../images/banner/2.html);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
 .team{overflow:hidden;}
 .bg-gradient99{
 background: #ffffff;
@@ -1270,7 +1270,7 @@ right: -55px;
 bottom: -55px;
 z-index: 0;}
 /**Portfolio page**/
-.banner-3{background: url(../images/banner/5.jpg);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
+.banner-3{background: url(../images/banner/5.html);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
 .common-heading.pp h2 { margin-bottom:0px;}
 .common-heading.pp{ padding: 0;    text-align: left;}
 .common-heading.pp p{    margin: 20px 0 0 0;}
@@ -1352,7 +1352,7 @@ box-shadow: 0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059), 0 8.2px 8.9px -30px rgba(0
 .techonology-used-{
 text-align: center;
 background: #f9f9f9;}
-.banner-2{background: url(../images/banner/6.jpg);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
+.banner-2{background: url(../images/banner/6.html);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
 .service{overflow:hidden;}
 .service .common-heading h2 {  margin-bottom: 20px;}
 .cta-area{
@@ -1503,7 +1503,7 @@ border-radius: 100%;
 padding: 10px;
 border: 8px solid #e9f8ff;}
 /**Case study page**/
-.banner-5{background: url(../images/banner/7.jpg);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
+.banner-5{background: url(../images/banner/7.html);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
 .case-study1{overflow:hidden;}
 .case-study3{overflow:hidden;}
 .case-study .image-div{
@@ -1638,7 +1638,7 @@ border-radius: 5px;}
 .post-navigation span a {color: #6a6a8e;   margin-bottom: 5px;  display: block;}
 .post-navigation h4 a{ color: #050748;}
 /**contact page**/
-.banner-6{background: url(../images/banner/4.jpg);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
+.banner-6{background: url(../images/banner/4.html);   background-repeat: no-repeat;    background-size: cover; background-position: center center;}
 .contact-location{overflow:hidden;}
 .info-card { padding: 30px;
 -webkit-box-shadow: 0 3.4px 2.7px -30px rgba(0, 0, 0, 0.059), 0 8.2px 8.9px -30px rgba(0, 0, 0, 0.071), 0 25px 40px -30px rgba(0, 0, 0, 0.2);
@@ -1671,7 +1671,7 @@ font-size: 15px; }
 .layer-div{ position:relative;}
 .error-block a{margin-top:40px; }
 .layer-div:before {
-background: url(../images/icons/404.svg);
+background: url(../images/icons/404.html);
 background-repeat: no-repeat;
 background-size: 70%;
 background-position: center center;
@@ -1767,7 +1767,7 @@ font-weight: 500;}
 .header-heading span{color: #e60072;}
 /**Lead Generation Homepage**/
 .lead-hero{
-background: url(../images/hero/bg-gradient.jpg);
+background: url(../images/hero/bg-gradient.html);
 background-position: center center;
 background-size: cover;
 background-repeat: no-repeat;}
@@ -2315,7 +2315,7 @@ font-size: 90px;
 position: absolute;
 right: 0; left: 0; text-align: center; top: 0; font-weight: 900; text-transform: uppercase; -webkit-text-stroke: 1px #e8e8e8; -webkit-text-fill-color: white;}
 /**business-startup**/
-.business-startup{ background: url(../images/hero/wave-hero.svg); background-repeat: no-repeat; background-position: center top;}
+.business-startup{ background: url(../images/hero/wave-hero.html); background-repeat: no-repeat; background-position: center top;}
 .bg-light-ylo { background: #e9f5ff; }
 .up-curvs{position: absolute; right: 0; left: 0; top: -50px; }
 .bottom-curvs{position: absolute; right: 0; left: 0; bottom: -50px; }
@@ -3404,7 +3404,7 @@ a.smllbtnn {    line-height: 45px;    color: #fff;    border-radius: 8px;    pad
 .switch-wrapper  .slider:before {
     bottom: 4px;
     content: "";
-    background: url("../images/icons/sun.svg") rgb(255, 196, 0) no-repeat center center;
+    background: url("../images/icons/sun.html") rgb(255, 196, 0) no-repeat center center;
     height: 24px;
     left: 4px;
     position: absolute;
@@ -3413,7 +3413,7 @@ a.smllbtnn {    line-height: 45px;    color: #fff;    border-radius: 8px;    pad
   }
   
 .switch-wrapper  input:checked + .slider {background-color: rgb(36, 36, 36); border: 1px solid #ffffff57; }  
-.switch-wrapper  input:checked + .slider:before {   transform: translateX(26px); content: "";   background: url(../images/icons/moon.svg) #2196f3 no-repeat center center; }  
+.switch-wrapper  input:checked + .slider:before {   transform: translateX(26px); content: "";   background: url(../images/icons/moon.html) #2196f3 no-repeat center center; }  
 .switch-wrapper  .slider.round {border-radius:50px;}  
 .switch-wrapper  .slider.round:before {border-radius: 50%;}
 /****/
@@ -3439,7 +3439,7 @@ a.smllbtnn {    line-height: 45px;    color: #fff;    border-radius: 8px;    pad
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 20px;  
     padding: 60px 0;    
-    background: url(../images/shape/tt-work-bg.jpg);
+    background: url(../images/shape/tt-work-bg.html);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -3468,7 +3468,7 @@ a.smllbtnn {    line-height: 45px;    color: #fff;    border-radius: 8px;    pad
 .glassmorphism .work-categorys {
     background-color: #fbf9ed;
     position: relative;
-    background-image: url(../images/shape/tt-work-bg.jpg);
+    background-image: url(../images/shape/tt-work-bg.html);
     background-size: cover;
     background-position: center center;
 }
@@ -3522,7 +3522,7 @@ a.smllbtnn {    line-height: 45px;    color: #fff;    border-radius: 8px;    pad
 }
 .info-list-ul{    display: grid;    grid-template-columns: repeat(2,minmax(0,1fr));}
 .info-list-ul li{    line-height: 40px;    color: #050748;}
-.info-list-ul li:before{    content: "â–¶";    font-size: 14px;    margin: 0 5px 0 0px;}
+.info-list-ul li:before{    content: "▶";    font-size: 14px;    margin: 0 5px 0 0px;}
 .img-wide-blocktt{    position: relative;    right: -80px;}
 .portfolio-item-info-tt h3{        font-size: 30px;    line-height: 40px;}
 .desktopblock{    position: relative;    width: 100%;    border: 10px solid rgb(255 255 255 / 50%);    border-radius: 28px;    overflow: hidden; }
